@@ -17,7 +17,8 @@
         "php": "^7.2",
         "phpunit/phpunit": "^8.0",
         "phpstan/phpstan": "^0.11",
-        "narration/phpstan-rules": "dev-master"
+        "narration/phpstan-rules": "dev-master",
+        "symfony/var-dumper": "^4.2"
     },
     "autoload-dev": {
         "psr-4": {
